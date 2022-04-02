@@ -1,5 +1,5 @@
 # Reinforcement-Learning - Snake
-Q-Learning and Deep-Q-Learning Implementation to play Snake in a self-written Tkinter Environment 
+Q-Learning and Deep-Q-Learning Implementation to play Snake from scratch using a self-build Tkinter Environment 
 
 # Game Design
 ## Definition of State and Actions
