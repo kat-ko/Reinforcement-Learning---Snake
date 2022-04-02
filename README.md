@@ -5,10 +5,10 @@ Q-Learning and Deep-Q-Learning Implementation to play Snake in a self-written Tk
 ## Definition of State and Actions
 
 ### Actions
-move up = (1,0,0,0)
-move down = (0,1,0,0)
-move left = (0,0,1,0)
-move right = (0,0,0,1)
+move up = (1,0,0,0)  <br>
+move down = (0,1,0,0)  <br>
+move left = (0,0,1,0)  <br>
+move right = (0,0,0,1)   <br>
 
 ### State
 Hitting a wall moving right   0 or 1
