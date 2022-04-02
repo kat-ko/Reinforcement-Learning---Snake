@@ -32,6 +32,6 @@ Direction to apple is up      0 or 1   <br>
 ## Rewards
 
 MOVE_TO_APPLE_REWARD  - Snake moves into the direction of the apple <br>
-MOVE_AWAY_REWARD      - Snake does not move into the direction  <br>
+MOVE_AWAY_REWARD &nbsp;      - Snake does not move into the direction of the apple <br>
 GET_APPLE_REWARD      - Snake eats an apple <br>
 COLLIDE_REWARD        - Snake collides with tail or wall  <br>
