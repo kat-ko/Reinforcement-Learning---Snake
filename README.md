@@ -1,7 +1,7 @@
 # Reinforcement-Learning - Snake
 Q-Learning and Deep-Q-Learning Implementation to play Snake from scratch using a selfmade Tkinter Environment, numpy and Keras
 
-![](gifs/example.gif)
+![Snake example](https://github.com/kat-ko/Reinforcement-Learning-Snake/gifs/example.gif)
 
 # Run the algorithms
 The agents can be started from ```main.py```  <br>
