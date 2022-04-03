@@ -1,7 +1,8 @@
 # Reinforcement-Learning - Snake
-Q-Learning and Deep-Q-Learning Implementation to play Snake from scratch using a self-build Tkinter Environment 
+Q-Learning and Deep-Q-Learning Implementation to play Snake from scratch using a selfmade Tkinter Environment, numpy and Keras
 
-![alt text](https://github.com/kat-ko/Reinforcement-Learning-Snake/movie1648983767.gif "Logo Title Text 1")
+# Run the algoithms
+The agents can be started from ```main.py```
 
 # Game Design
 ## Definition of State and Actions
@@ -30,9 +31,7 @@ Direction to apple is left    0 or 1   <br>
 Direction to apple is down    0 or 1   <br>
 Direction to apple is up      0 or 1   <br>
 
-# Design Problems
 ## Rewards
-
 MOVE_TO_APPLE_REWARD  - Snake moves into the direction of the apple <br>
 MOVE_AWAY_REWARD - Snake does not move into the direction of the apple <br>
 GET_APPLE_REWARD - Snake eats an apple <br>
