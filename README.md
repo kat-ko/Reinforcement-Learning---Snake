@@ -32,7 +32,7 @@ Direction to apple is left    0 or 1   <br>
 Direction to apple is down    0 or 1   <br>
 Direction to apple is up      0 or 1   <br>
 
-## Rewards
+### Rewards
 MOVE_TO_APPLE_REWARD  - Snake moves into the direction of the apple <br>
 MOVE_AWAY_REWARD - Snake does not move into the direction of the apple <br>
 GET_APPLE_REWARD - Snake eats an apple <br>
