@@ -4,7 +4,7 @@ Q-Learning and Deep-Q-Learning Implementation to play Snake from scratch using a
 # Run the algorithms
 The agents can be started from ```main.py```  <br>
 Configurations are made in ```Config.py```  <br>
-To control the statistics that are printed for every training alter ```stats.py```  <br>
+To control the statistics that are printed for every training run alter ```stats.py```  <br>
 
 # Game Design
 
