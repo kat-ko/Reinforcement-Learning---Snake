@@ -7,7 +7,6 @@ Configurations are made in ```Config.py```
 To control the statistics that are printed for every training alter ```stats.py```
 
 # Game Design
-## Definition of State and Actions
 
 ### Actions
 move up = (1,0,0,0)  <br>
