@@ -1,6 +1,8 @@
 # Reinforcement-Learning - Snake
 Q-Learning and Deep-Q-Learning Implementation to play Snake from scratch using a self-build Tkinter Environment 
 
+![alt text](https://github.com/kat-ko/Reinforcement-Learning-Snake/movie1648983767.gif "Logo Title Text 1")
+
 # Game Design
 ## Definition of State and Actions
 
