@@ -2,9 +2,9 @@
 Q-Learning and Deep-Q-Learning Implementation to play Snake from scratch using a selfmade Tkinter Environment, numpy and Keras
 
 # Run the algorithms
-The agents can be started from ```main.py```
-Configurations are made in ```Config.py```
-To control the statistics that are printed for every training alter ```stats.py```
+The agents can be started from ```main.py```  <br>
+Configurations are made in ```Config.py```  <br>
+To control the statistics that are printed for every training alter ```stats.py```  <br>
 
 # Game Design
 
