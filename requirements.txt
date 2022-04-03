@@ -1,0 +1,8 @@
+imageio==2.9.0
+matplotlib==3.2.2
+numpy==1.22.3
+pandas==1.0.5
+Pillow==9.1.0
+pyscreenshot==3.0
+tensorflow==2.3.4
+numpy==1.18.5
